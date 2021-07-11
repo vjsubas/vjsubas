@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vjsubas
+- 👋 Hi, I’m Vijay Subas
 - 👀 I’m interested in embedded systems, robotics and electronics
 - 🌱 I’m currently learning FPGA, micro controllers, electronics and AI
 
